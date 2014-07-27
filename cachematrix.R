@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The below functions allow the inverse of a matrix to be calculated and cached to save in
+## computation time. 
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
